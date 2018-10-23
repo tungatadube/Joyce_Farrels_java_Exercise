@@ -1,0 +1,10 @@
+
+ˆsquid:S1488."qImmediately return this expression instead of assigning it to the temporary variable "displayValueInCentimeters".(ÍÌ±
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïÚª
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ³€áùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“º Üıÿÿÿÿ
+ˆsquid:S1488'"lImmediately return this expression instead of assigning it to the temporary variable "displayValueInLiters".(–ºŞÍøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö‘ó€úÿÿÿÿ

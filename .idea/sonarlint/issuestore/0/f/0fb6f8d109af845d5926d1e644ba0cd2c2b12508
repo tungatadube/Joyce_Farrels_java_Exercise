@@ -1,0 +1,8 @@
+
+ksquid:S2184 "HCast one of the operands of this multiplication operation to a "double".(÷õ·Øûÿÿÿÿ8¡Ò¿ãç,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(œÍ¼¡ûÿÿÿÿ8ÀÛãç,
+U
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ÀÛãç,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÃğıÿÿÿÿ
+fsquid:S2184"HCast one of the operands of this multiplication operation to a "double".(ÙŠÅï8¡Ò¿ãç,

@@ -1,0 +1,24 @@
+
+Qsquid:UselessParenthesesCheck$"!Remove these useless parentheses.(Ñğª8æ‘Ìçç,
+Isquid:S1905""&Remove this unnecessary cast to "int".(È¾­ùÿÿÿÿ8ÇÙ®çç,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(­³¶8íÕìçç,
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¦ÿå§ùÿÿÿÿ8î¸ùçç,
+Gsquid:S1481")Remove this unused "ones" local variable.(¬ûÆ¬8‡âñæç,
+Dsquid:S1905$"&Remove this unnecessary cast to "int".(Ñğª8­–Äçç,
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(¢ĞºÎıÿÿÿÿ8ªœ÷çç,
+Isquid:S1905 "&Remove this unnecessary cast to "int".(ÕÜŸÌıÿÿÿÿ8íÁ™çç,
+Vsquid:UselessParenthesesCheck""!Remove these useless parentheses.(È¾­ùÿÿÿÿ8ªÚÀçç,
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(…ˆçï8ªœ÷çç,
+Qsquid:UselessParenthesesCheck$"!Remove these useless parentheses.(Ñğª8æ‘Ìçç,
+Dsquid:S1905"&Remove this unnecessary cast to "int".(¢´¨8Š¹†çç,
+Msquid:S001088")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ÕŸèç,
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ç˜Úøúÿÿÿÿ8‡¯–èç,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÃğıÿÿÿÿ
+Psquid:S11998"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8‰®°èç,
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(½È·óÿÿÿÿÿ8Ù´âçç,

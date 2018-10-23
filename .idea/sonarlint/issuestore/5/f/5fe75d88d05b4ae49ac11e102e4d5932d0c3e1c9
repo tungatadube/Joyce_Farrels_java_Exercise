@@ -1,0 +1,12 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Γπύÿÿÿÿ
+`squid:S2184"BCast one of the operands of this division operation to a "double".(ΑΩΨ8οθη,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ω©Ϋ„8Μϋρθη,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8®Κυθη,
+csquid:S2184"@Cast one of the operands of this integer division to a "double".(ήÿό½ϋÿÿÿÿ8οθη,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ώξ°ωÿÿÿÿ8ώθη,
+^squid:S2184"@Cast one of the operands of this integer division to a "double".(ΑΩΨ8οθη,
+esquid:S2184"BCast one of the operands of this division operation to a "double".(ήÿό½ϋÿÿÿÿ8οθη,

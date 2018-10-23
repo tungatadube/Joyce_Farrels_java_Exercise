@@ -1,0 +1,13 @@
+
+N
+squid:S106."9Replace this use of System.out or System.err by a logger.(»şy
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ø”¨Ûùÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Öïá¥øÿÿÿÿ
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(“¼ş‰ıÿÿÿÿ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(é‰àÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“º Üıÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÎĞ–
+tsquid:S1488;"]Immediately return this expression instead of assigning it to the temporary variable "price".(ª¹Å‚

@@ -1,0 +1,15 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“º Üýÿÿÿÿ
+gsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(„éˆªÿÿÿÿÿ
+Isquid:S1481$"-Remove this unused "idNumber" local variable.(¬Ï˜ãþÿÿÿÿ
+Msquid:S1481%"6Remove this unused "creditHoursEarned" local variable.(Èµíê
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(¬ºŠÓ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+Wsquid:S1854,";Remove this useless assignment to local variable "prompts".(ŸðÆÏþÿÿÿÿ
+Ssquid:S1854("<Remove this useless assignment to local variable "keyboard".(Ð‡æµ
+Dsquid:S1481("-Remove this unused "keyboard" local variable.(Ð‡æµ
+Hsquid:S1481,",Remove this unused "prompts" local variable.(ŸðÆÏþÿÿÿÿ
+„squid:S4165"hRemove this useless assignment; "studentObj" already holds the assigned value along all execution paths.(üã½âÿÿÿÿÿ
+Hsquid:S1481&"1Remove this unused "pointsEarned" local variable.(“ï‚Å
+Lsquid:S1481'"6Remove this unused "gradePointAverage" local variable.(·Ïí9
