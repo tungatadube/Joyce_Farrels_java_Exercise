@@ -63,15 +63,17 @@ public class TimedResponse
         {
             LocalDateTime time1, time2;
 
-            int seconds1, seconds2, difference;
+            int seconds1, minute1, seconds2, minute2, difference;
 
             time1 = LocalDateTime.now();
+            minute1 = time1.getMinute();
             seconds1 = time1.getSecond();
             JOptionPane.showConfirmDialog(null, "Is stealiing ever justified?");
 
             time2 = LocalDateTime.now();
+            minute2  = time2.getMinute();
             seconds2 = time2.getSecond();
-            difference = seconds2 - seconds1;
+            difference = (minute2-minute1)*60 +(seconds2 - seconds1);
             JOptionPane.showMessageDialog(null, "End seconds: " + seconds2 + "\nStart seconds: "
                     + seconds1 + "\nIt took " + difference + " seconds for you to answer");
 
