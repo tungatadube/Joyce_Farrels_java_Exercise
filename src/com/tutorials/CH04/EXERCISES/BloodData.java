@@ -12,5 +12,35 @@ public class BloodData
      */
 
 {
+    private String bloodType;
+    private String rhFactor;
 
+    public BloodData()
+    {
+        setBloodType("O");
+        setRhFactor("+");
+    }
+
+    public BloodData(String bType, String rH)
+    {
+        setBloodType(bType);
+        setRhFactor(rH);
+    }
+
+
+    public String getRhFactor() {
+        return rhFactor;
+    }
+
+    public void setRhFactor(String rhFactor) {
+        this.rhFactor = rhFactor;
+    }
+
+    public String getBloodType() {
+        return bloodType;
+    }
+
+    public void setBloodType(String bloodType) {
+        this.bloodType = bloodType;
+    }
 }
